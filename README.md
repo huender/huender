@@ -1,9 +1,8 @@
 ### Hi there 👋
 - 📑 I'm Symfony enthusiastic
-- 🌱 I’m currently learning about astronomical data analysis with python
 - 📫 How to reach me: [huenderbresolin@gmail.com](mailto:huenderbresolin@gmail.com)
 - 🔗 Linkedin: [Huender Bresolin](https://www.linkedin.com/in/huender-bresolin/)
-- 📑 Getting the data from James Webb Space Telescope!
+- 📑 James Webb Space Telescope!
 
 <p>
   <img src="https://img.shields.io/badge/Symfony-%23000000.svg?&style=for-the-badge&logo=Symfony&logoColor=white"/>

@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently CTO at **@geosapiens**
 - 📑 I'm Symfony enthusiastic
 - 🌱 I’m currently learning about astronomical data analysis with python
 - 📫 How to reach me: [huenderbresolin@gmail.com](mailto:huenderbresolin@gmail.com)
